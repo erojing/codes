@@ -1,4 +1,5 @@
-#於需要下載的資料夾中建立notebook並執行
+# https://www.coursera.support/s/article/360004990332-Download-Jupyter-Workspace-files?language=en_US
+# 於需要下載的資料夾中建立notebook並執行
 import os
 import tarfile
 
